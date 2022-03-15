@@ -18,3 +18,14 @@ Some useful DS and ML tutorials to take a look
  * How to learn a word **embedding distributed representation as a part of fitting** a deep learning model.
  * How to use word embeddings with **convolutional neural networks** for text classification problems.
  * How to work through a **real-world sentiment analysis problem** end-to-end using deep learning methods.
+
+ ## Imbalanced Classification
+ 
+
+* The challenge of imbalanced classification is the lack of examples for the minority class and the difference in importance of classification errors across the classes.
+* How to develop a spatial intuition for imbalanced classification datasets that might inform data preparation and algorithm selection.
+* The failure of classification accuracy and how alternate metrics like precision, recall, and the F-measure can better summarize model performance on imbalanced datasets.
+* How to delete examples from the majority class in the training dataset, referred to as data undersampling.
+* How to synthesize new examples in the minority class in the training dataset, referred to as data oversampling.
+* How to combine data oversampling and undersampling techniques on the training dataset, and common combinations that result in good performance.
+* How to use cost-sensitive modified versions of machine learning algorithms to improve performance on imbalanced classification datasets.
